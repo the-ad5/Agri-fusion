@@ -1,4 +1,5 @@
-# export_onnx.py
+# export_onnx.py 
+# Export trained model to ONNX format
 import torch
 import os
 import json
