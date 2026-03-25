@@ -105,7 +105,7 @@ Expanding the dataset with more crop types
 Using advanced architectures for improved accuracy
 Developing a user-friendly interface for farmers
 
-
+Compliance
 Public dataset used
 Single AI model implemented
 CNN-based approach followed
