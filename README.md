@@ -115,3 +115,4 @@ Inference successfully tested
 
 
 This project demonstrates that a good solution is not defined by complexity but by its ability to solve a real-world problem effectively. By combining AI with agriculture, this system aims to make farming smarter, faster, and more efficient.
+Note: Model files are not uploaded due to size limitations. They can be generated using train.py.
