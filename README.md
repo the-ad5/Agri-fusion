@@ -52,7 +52,7 @@ class_names.json stores label mappings
 How to Run the Project
 Step 1: Clone the repository
 git clone <your-repo-link>
-cd project
+cd agri-fusion
 
 Step 2: Install dependencies
 pip install -r requirements.txt
