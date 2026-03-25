@@ -1,4 +1,5 @@
 # train.py
+# Training script for soybean crop classification
 import os
 import time
 import copy
