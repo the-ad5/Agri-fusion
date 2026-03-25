@@ -1,0 +1,11 @@
+Problem Statement
+
+Agriculture today faces a critical challenge in ensuring timely and accurate monitoring of crop health, especially across large scale farming environments. Traditional methods of manual inspection are inherently limited; they are slow, labor-intensive, subjective, and incapable of providing consistent coverage over extensive agricultural fields. As a result, early signs of crop stress, pest infestation, or disease often go unnoticed until significant damage has already occurred, leading to reduced productivity and economic loss.
+
+While UAV (drone) technology has made it possible to capture large-scale, high-resolution images of farmland, the true challenge lies in extracting meaningful insights from this data. Manual interpretation of such imagery is not only inefficient but also requires domain expertise, making it impractical for regular and widespread use.
+
+This creates a clear gap between data availability and actionable intelligence. Despite having access to rich visual data, farmers often lack automated tools that can transform this data into reliable and timely decisions.
+
+Therefore, the core problem is to design an intelligent and scalable system that can automatically analyze UAV-based soybean crop images and accurately classify crop health conditions. The system must be capable of handling real-world variability, including differences in lighting, field conditions, and class imbalance, while maintaining efficiency and reliability.
+
+Such a solution would bridge the gap between technological capability and practical agricultural needs, enabling early detection, reducing crop loss, and supporting data-driven farming practices.
